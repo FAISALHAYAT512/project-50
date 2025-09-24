@@ -13,7 +13,7 @@ export default function Home() {
       </p>
       <div className="mt-6">
         <img
-          src="https://images.unsplash.com/photo-1597848212624-a19eb35fcb54"
+          src="mountain.png"
           alt="Pakistan Mountains"
           className="rounded-xl shadow-lg w-[600px] h-[400px] object-cover"
         />
